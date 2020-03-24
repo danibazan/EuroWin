@@ -1,0 +1,8 @@
+I:\Repositorio\EuroWin\EuroWin\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+I:\Repositorio\EuroWin\EuroWin\Data\bin\Debug\netcoreapp3.1\Data.dll
+I:\Repositorio\EuroWin\EuroWin\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+I:\Repositorio\EuroWin\EuroWin\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+I:\Repositorio\EuroWin\EuroWin\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+I:\Repositorio\EuroWin\EuroWin\Data\bin\Debug\netcoreapp3.1\Data.pdb
+I:\Repositorio\EuroWin\EuroWin\Data\obj\Debug\netcoreapp3.1\Data.dll
+I:\Repositorio\EuroWin\EuroWin\Data\obj\Debug\netcoreapp3.1\Data.pdb
